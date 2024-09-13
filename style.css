@@ -493,33 +493,34 @@
   }
   
   #wtisit{
-    height: 120%;
+    height: 140%;
   
   }
   
   #introcont{
-    height: 100%;
+    height: 120%;
   }
   
   #CAUSES{
-    margin-top: 10%;
+    margin-top: 30%;
   }
   
   #ok{
+    margin-top: 10%;
     text-align:center;
     padding-bottom: 10%;
   }
   
   #content{
-    height: 50%;
+    height: 70%;
   }
   
   #content1{
-    height: 50%;
+    height: 70%;
   }
   
   #content3{
-    height: 50%;
+    height: 70%;
   }
     /* Adjust font sizes for mobile */
     #savso {
