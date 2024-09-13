@@ -7,5 +7,5 @@ An awareness website made with Html and css only, aimed to spread awareness on s
 this website is very very basic and very beginner friendly to learn from 
 
 
-WARNING :- DO NOT COPY THE CODE
+PLEASE DO NOT COPY THE CODE
 
