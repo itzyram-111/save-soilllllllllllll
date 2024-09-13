@@ -516,7 +516,19 @@
     text-align:center;
     padding-bottom: 10%;
   }
-  
+
+ #ok1{
+    margin-top: 10%;
+    text-align:center;
+    padding-bottom: 10%;
+  }
+
+#ok2{
+    margin-top: 10%;
+    text-align:center;
+    padding-bottom: 10%;
+  }
+      
   #content{
     height: 65%;
   }
@@ -555,7 +567,7 @@
   
     #division1 {
       margin-right: 0;
-      margin-top: 50%;
+      margin-top: 40%;
     }
   
     #container1 {
