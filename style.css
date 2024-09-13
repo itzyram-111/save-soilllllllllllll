@@ -502,9 +502,15 @@
   }
   
   #CAUSES{
-    margin-top: 30%;
+    margin-top: 20%;
   }
-  
+
+  #PREVENTION{
+       margin-top: 10%;
+  }
+
+ 
+      
   #ok{
     margin-top: 10%;
     text-align:center;
@@ -512,22 +518,26 @@
   }
   
   #content{
-    height: 70%;
+    height: 65%;
   }
   
   #content1{
-    height: 70%;
+    height: 65%;
   }
   
   #content3{
-    height: 70%;
+    height: 65%;
   }
     /* Adjust font sizes for mobile */
     #savso {
       font-size: 5rem;
       -webkit-text-stroke: 0.5px #ace41d;
     }
-  
+
+    #LTTM{
+        margin-top: 10%;
+    }
+      
     #youu {
       font-size: 3rem;
       -webkit-text-stroke: 0.5px #ace41d;
