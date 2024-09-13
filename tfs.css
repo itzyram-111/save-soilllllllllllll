@@ -1,0 +1,16 @@
+body{
+    background-color: #000000;
+}
+
+
+#tfss{
+    font-size: 5em;
+    color:#000000;
+    -webkit-text-stroke: 1px #ace41d;
+    text-align: center;
+}
+
+#orls{
+    color: #ffffff;
+    text-align: justify;
+}
