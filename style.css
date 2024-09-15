@@ -712,8 +712,10 @@
     .nav-toggle {
       display: none;
     }
+      
     #menu-toggle {
     display: none;
-  }
+    }
+      
   }
   
