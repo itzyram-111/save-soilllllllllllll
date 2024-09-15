@@ -1,7 +1,6 @@
-body{
+*{
     background-color: #000000;
 }
-
 
 #tfss{
     font-size: 5em;
@@ -11,6 +10,33 @@ body{
 }
 
 #orls{
+    list-style-type: none;
     color: #ffffff;
     text-align: justify;
+}
+
+h2{
+    text-align: center;
+    font-size: 3em;
+    color: #ace41d;
+}
+
+p , li {
+    text-align: center;
+    font-size: 1.5rem;
+    list-style-type: none;
+}
+
+@media only screen and (max-width: 600px) {
+    #tfss{
+        font-size: 3em;
+        color:#000000;
+        -webkit-text-stroke: 1px #ace41d;
+        
+    }
+
+    #orls{
+        text-align: center;
+    }
+
 }
